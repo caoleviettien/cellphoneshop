@@ -1,0 +1,15 @@
+.img-prod
+{
+	height: 253px;
+	width: auto;
+	
+}
+
+.product-img{
+	text-align: center;
+}
+
+.active > span
+{
+	color: white !important;
+}
